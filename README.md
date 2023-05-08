@@ -1,1 +1,1 @@
-# machine-learning-notes
+# Machine Learning Notes
