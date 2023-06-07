@@ -4,3 +4,5 @@ In this directory we have notebooks for
 3.  Linear regression in scikit-learn
 4.  Linear regression in pyTorch
 5.  Linear regression TensorFlow
+
+(Should logistic regression be here or in a different directory?)
