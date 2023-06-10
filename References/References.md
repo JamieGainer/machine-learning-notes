@@ -5,6 +5,7 @@
 3. [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
 4. [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/pdf/1603.02754.pdf)
 5. [A comprehensive review of Binary Neural Network](https://arxiv.org/pdf/2110.06804.pdf)
+6. LeNet: [Gradient-Based Learning Applied to Document Recognition](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
 
 
 See [a more complete list](https://github.com/daturkel/learning-papers)
