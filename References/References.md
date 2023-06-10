@@ -8,6 +8,7 @@
 6. LeNet: [Gradient-Based Learning Applied to Document Recognition](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
 7. AlexNet: [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 8. VGG-16: [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
+9. ResNets: [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
 
 
 See [a more complete list](https://github.com/daturkel/learning-papers)
