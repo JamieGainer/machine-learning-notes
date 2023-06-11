@@ -11,7 +11,8 @@
 9. ResNets: [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
 10. Inception: [Going deeper with convolutions](https://arxiv.org/pdf/1409.4842.pdf)
 11. MobileNets: [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf)
-12. Pitts and McCullough Neuron Paper: [A logical calculus of ideas immanent in nervous activity](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)
+12. MobileNetsV2: [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381.pdf)
+13. Pitts and McCullough Neuron Paper: [A logical calculus of ideas immanent in nervous activity](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)
 
 
 See [a more complete list](https://github.com/daturkel/learning-papers)
