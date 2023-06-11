@@ -10,6 +10,7 @@
 8. VGG-16: [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)
 9. ResNets: [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
 10. Inception: [Going deeper with convolutions](https://arxiv.org/pdf/1409.4842.pdf)
+11. MobileNets: [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf)
 
 
 See [a more complete list](https://github.com/daturkel/learning-papers)
