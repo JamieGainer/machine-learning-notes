@@ -36,9 +36,8 @@ If running the "kaggle competitions download" command doesn't work, install kagg
 
 ### CountVectorizer
 
-sklearn.feature_extraction.text.CountVectorizer
-
-Can obtain "bag of word" vectors for each sentence/ tweet/ review/ whatever...
+I have provided a brief demonstration of CountVectorizer in the notebook of that name.
+This is an sklearn method that can be used to obtain (bag of word) word vectors.
 
 ### TF-IDF
 
