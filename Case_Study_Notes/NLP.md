@@ -25,13 +25,14 @@ The data is labeled tweets which either do or do not describe a disaster.
 I am not including the datasets (or any Kaggle datasets) in this repo.
 To get the data to run the notebook
 1. Make a new directory: machine-learning-notes/Case_Study_Notes/nlp-getting-started
-2. Download a zip file with datasets for the competition using the
+2. Download a zip file with datasets for the competition using
+```
 kaggle competitions download -c nlp-getting-started
-command
+```
 3. Unzip the zip file.  There should now be a train.csv and test.csv file in the machine-learning-notes/Case_Study_Notes/nlp-getting-started directory
 
 If running the "kaggle competitions download" command doesn't work, install kaggle following the instructions
-(here)[https://github.com/Kaggle/kaggle-api#readme] 
+[here](https://github.com/Kaggle/kaggle-api#readme)
 
 ### CountVectorizer
 
