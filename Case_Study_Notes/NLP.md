@@ -17,3 +17,18 @@ References:
 https://jamesmccaffrey.wordpress.com/2020/07/17/ten-types-of-neural-based-natural-language-processing-nlp-problems/
 https://analyticsindiamag.com/8-different-nlp-scenarios-one-can-take-up-for-a-project/
 
+## Obtaining Features
+
+### CountVectorizer
+
+sklearn.feature_extraction.text.CountVectorizer
+
+Can obtain "bag of word" vectors for each sentence/ tweet/ review/ whatever...
+
+### TF-IDF
+
+
+
+### Embedding Vectors
+
+
