@@ -14,6 +14,6 @@
 12. MobileNetsV2: [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381.pdf)
 13. EfficientNet: [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/pdf/1905.11946.pdf)
 14. Pitts and McCullough Neuron Paper: [A logical calculus of ideas immanent in nervous activity](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)
-
+15. Zeiler and Fergus: [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
 
 See [a more complete list](https://github.com/daturkel/learning-papers)
